@@ -1,0 +1,70 @@
+body{
+	background-image: url(https://files.slack.com/files-pri/T5AAYCYF6-F659VQXAM/background.jpg);
+	}
+
+#bless{
+	background-color:  #DC7633; 
+	margin-top: 20px;
+	text-align: center;
+	font-size:30px;
+	font-weight: 100px;
+	display: inline-block;
+
+    color: #fff;
+}
+
+#rules{
+	background-color: #FCF3CF;
+	margin-top: 10px;
+	color: #52BE80;
+	height: 200px;
+
+}
+
+#num{
+	margin-top: 10px;
+	background-color: #52BE80;
+	height: 100px;
+}
+
+#num2{
+	background-color: #D7BDE2;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+#crystals{
+	margin-top: 10px;
+}
+#random-button1{
+	background-color: #fff;
+	border: 0;
+}
+#random-button2{
+	background-color: #fff;
+	border: 0;
+}
+#random-button3{
+	background-color: #fff;
+	border: 0;
+}
+#random-button4{
+	background-color: #fff;
+	border: 0;
+}
+
+#main{
+	background-color: #16A085;
+	color: #fff;
+	margin-top: 10px;
+	height: 20px;
+	font-size: 15px;
+}
+
+#main2{
+	background-color: #16A085;
+	margin-top: 10px;
+	height: 70px;
+	font-size: 15px;
+}
